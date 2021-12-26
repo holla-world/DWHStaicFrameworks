@@ -1,0 +1,6 @@
+framework module DWHStaticFramework {
+  umbrella header "DWHStaticFramework.h"
+
+  export *
+  module * { export * }
+}
