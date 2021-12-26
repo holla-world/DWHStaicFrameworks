@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "DWHStaticFramework"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "DWHStaticFramework"
   spec.homepage     = "https://github.com"
   spec.license      = "MIT"
