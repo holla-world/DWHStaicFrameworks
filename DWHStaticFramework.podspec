@@ -9,12 +9,12 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "DWHStaticFramework"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "DWHStaticFramework"
   spec.homepage     = "https://github.com"
   spec.license      = "MIT"
   spec.author       = { "maopenglin" => "maopenglin@holla.world" }
-  spec.source = { :http => "https://raw.githubusercontent.com/holla-world/IMStaicFrameworks/master/IMMessageSDK.framework.zip"}
+  spec.source = { :http => "https://raw.githubusercontent.com/holla-world/DWHStaicFrameworks/main/DWHStaticFramework.framework.zip"}
   spec.ios.vendored_framework  =  "DWHStaticFramework.framework"
   spec.swift_version = '5.0'
   spec.ios.deployment_target = '10.0'
