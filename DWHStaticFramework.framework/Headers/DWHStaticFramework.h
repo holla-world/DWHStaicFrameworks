@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <DWHStaticFramework/DWHSDK.h>
 //! Project version number for DWHStaticFramework.
 FOUNDATION_EXPORT double DWHStaticFrameworkVersionNumber;
 
