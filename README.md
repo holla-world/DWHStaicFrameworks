@@ -1,0 +1,2 @@
+# DWHStaicFrameworks
+pod 'DWHStaticFramework'
